@@ -23,3 +23,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+#### this is a cloned project from udemy i created a new remote repo than the original file 
